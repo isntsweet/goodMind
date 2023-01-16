@@ -2,3 +2,6 @@
 
 ## 서버폴더 무시
 Servers/
+
+## application.properties 무시
+application.properties
